@@ -1,6 +1,6 @@
-- 👋 Hey there! I am `@Creators-722` or my call me Shubhojeet ch. (my real name)
-- 👀 I am interested in Web development!
-- ✨ I am currently doing HTML, CSS, JSON, JS and NODE.JS
+- 👋 Hi! me is `@Creators-722` or my call me Shubhojeet ch. (my real name)
+- 👀 me is interested in Web development!
+- ✨ me is currently doing HTML, CSS, JSON, JS and NODE.JS
 - 📫 Reach me at `shubhojeet.ch@gmail.com` or `shubhojeet.s.c@gmail.com`
 
 <!---
